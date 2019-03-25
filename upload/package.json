@@ -1,0 +1,16 @@
+{
+  "name": "upload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "upload.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "formidable": "^1.2.1",
+    "time-stamp": "^2.2.0"
+  }
+}
